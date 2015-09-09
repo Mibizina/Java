@@ -1,0 +1,3 @@
+8 a pour carre 64
+7 a pour carre 49
+88 a pour carre 7744
