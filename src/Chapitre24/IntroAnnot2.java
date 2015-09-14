@@ -50,10 +50,16 @@ class D extends C
     void f() {}
 }
 //erreur à ignorer
+
+/*
 @Retention (RetentionPolicy.RUNTIME)
 @Inherited
 @interface Infos
+
+
 {
     String message() default "Rien";
     int value() default 0;
 }
+
+*/
